@@ -1,0 +1,6 @@
+INFO:__main__:Time synchronized with NTP server
+INFO:root:System time successfully synchronized with NTP server.
+ERROR:root:Error extracting XML content from zip file: name 'BytesIO' is not defined
+ERROR:root:An error occurred: Error extracting XML content from zip file
+ERROR:__main__:Unable to connect to NTP server: No response received from pool.ntp.org.
+WARNING:root:System time synchronization failed.
